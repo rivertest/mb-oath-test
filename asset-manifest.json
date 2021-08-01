@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mb-oauth-test/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/mb-oauth-test/static/js/main.5222be8c.chunk.js",
+    "main.js.map": "/mb-oauth-test/static/js/main.5222be8c.chunk.js.map",
+    "runtime-main.js": "/mb-oauth-test/static/js/runtime-main.eb574476.js",
+    "runtime-main.js.map": "/mb-oauth-test/static/js/runtime-main.eb574476.js.map",
+    "static/js/2.674f1eda.chunk.js": "/mb-oauth-test/static/js/2.674f1eda.chunk.js",
+    "static/js/2.674f1eda.chunk.js.map": "/mb-oauth-test/static/js/2.674f1eda.chunk.js.map",
+    "static/js/3.a8baa7be.chunk.js": "/mb-oauth-test/static/js/3.a8baa7be.chunk.js",
+    "static/js/3.a8baa7be.chunk.js.map": "/mb-oauth-test/static/js/3.a8baa7be.chunk.js.map",
+    "index.html": "/mb-oauth-test/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/mb-oauth-test/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.674f1eda.chunk.js.LICENSE.txt": "/mb-oauth-test/static/js/2.674f1eda.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb574476.js",
+    "static/js/2.674f1eda.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.5222be8c.chunk.js"
+  ]
+}
